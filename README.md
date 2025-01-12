@@ -10,6 +10,8 @@ Imagine that there are five philosophers.  They spend their lives just thinking 
 - Philosophers eat at different speeds
 - They need to have both chopsticks to eat
 
+- no Philospher must starve....
+  
 problem was (I think) attributed to Djikstra as an example in threaded programming
 
 solve....
